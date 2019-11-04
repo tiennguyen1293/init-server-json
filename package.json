@@ -10,7 +10,9 @@
     "url": "https://github.com/tiennguyen1293/init-server-json/issues"
   },
   "homepage": "https://github.com/tiennguyen1293/init-server-json#readme",
-  "scripts": {},
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "faker": "^4.1.0",
     "json-server": "^0.15.1"
